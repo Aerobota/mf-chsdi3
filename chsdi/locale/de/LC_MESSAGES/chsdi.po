@@ -3956,6 +3956,21 @@ msgstr "BAV"
 msgid "ch.bav.anlagen-schienengueterverkehr"
 msgstr "Anlagen Schienengüterverkehr"
 
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_abk"
+msgstr "Abkürzung"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_nr"
+msgstr "Nummer"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.isb"
+msgstr "ISB"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.name"
+msgstr "Name"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.typ"
+msgstr "Anlagenkategorie"
+
 msgid "ch.bav.baulinien-eisenbahnanlagen.oereb"
 msgstr "Baulinien Eisenbahnen ÖREB"
 
@@ -5567,8 +5582,80 @@ msgstr "MCPFE1.3 Biodiversitätsförderung durch gezielte Eingriffe"
 msgid "ch.sem.sachplan-asyl_anhoerung"
 msgstr "SPA Anhörung"
 
+msgid "ch.sem.sachplan-asyl_anhoerung.coordlevel_text_lang"
+msgstr "Stand der Koordination"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.description_text_lang"
+msgstr "Beschreibung"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.document_web"
+msgstr "Weitere Informationen"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.fackind_text_lang"
+msgstr "Anlageart"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facname_lang"
+msgstr "Anlage"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facstatus_text_lang"
+msgstr "Anlagestatus"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.meastype_text_lang"
+msgstr "Massnahmetyp"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.objectname_lang"
+msgstr "Übergeordnetes Objekt"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plname_lang"
+msgstr "Planerische Massnahme"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plstatus_text_lang"
+msgstr "Planungsstand"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validfrom"
+msgstr "Beschlussdatum"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validuntil"
+msgstr "bis"
+
 msgid "ch.sem.sachplan-asyl_kraft"
 msgstr "SPA Asyl"
+
+msgid "ch.sem.sachplan-asyl_kraft.coordlevel_text_lang"
+msgstr "Stand der Koordination"
+
+msgid "ch.sem.sachplan-asyl_kraft.description_text_lang"
+msgstr "Beschreibung"
+
+msgid "ch.sem.sachplan-asyl_kraft.document_web"
+msgstr "Weitere Informationen"
+
+msgid "ch.sem.sachplan-asyl_kraft.fackind_text_lang"
+msgstr "Anlageart"
+
+msgid "ch.sem.sachplan-asyl_kraft.facname_lang"
+msgstr "Anlage"
+
+msgid "ch.sem.sachplan-asyl_kraft.facstatus_text_lang"
+msgstr "Anlagestatus"
+
+msgid "ch.sem.sachplan-asyl_kraft.meastype_text_lang"
+msgstr "Massnahmetyp"
+
+msgid "ch.sem.sachplan-asyl_kraft.objectname_lang"
+msgstr "Übergeordnetes Objekt"
+
+msgid "ch.sem.sachplan-asyl_kraft.plname_lang"
+msgstr "Planerische Massnahme"
+
+msgid "ch.sem.sachplan-asyl_kraft.plstatus_text_lang"
+msgstr "Planungsstand"
+
+msgid "ch.sem.sachplan-asyl_kraft.validfrom"
+msgstr "Beschlussdatum"
+
+msgid "ch.sem.sachplan-asyl_kraft.validuntil"
+msgstr "bis"
 
 msgid "ch.sgpk.maechtigkeit-lockergesteine"
 msgstr "Mächtigkeit der Lockergesteine"
@@ -6556,6 +6643,9 @@ msgstr "ch.swisstopo.images-spotimage"
 
 msgid "ch.swisstopo.images-swissimage"
 msgstr "SWISSIMAGE"
+
+msgid "ch.swisstopo.images-swissimage-dop10.metadata"
+msgstr "Einteilung SWISSIMAGE 10 cm Raster"
 
 msgid "ch.swisstopo.images-swissimage.metadata"
 msgstr "Einteilung SWISSIMAGE Raster"

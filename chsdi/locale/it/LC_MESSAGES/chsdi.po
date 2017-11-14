@@ -3956,6 +3956,21 @@ msgstr "UFT"
 msgid "ch.bav.anlagen-schienengueterverkehr"
 msgstr "Anlagen Schienengüterverkehr"
 
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_abk"
+msgstr "Abbreviazione"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_nr"
+msgstr "Numero"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.isb"
+msgstr "GI"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.name"
+msgstr "Nome"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.typ"
+msgstr "Categorie di impianti"
+
 msgid "ch.bav.baulinien-eisenbahnanlagen.oereb"
 msgstr "Linee di costruzione ferrovie RDPP"
 
@@ -5567,8 +5582,80 @@ msgstr "MCPFE1.3 Promozione delle biodiversità per mezzo di interventi specific
 msgid "ch.sem.sachplan-asyl_anhoerung"
 msgstr "PSA consultazione"
 
+msgid "ch.sem.sachplan-asyl_anhoerung.coordlevel_text_lang"
+msgstr "Stato di coordinamento"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.description_text_lang"
+msgstr "Descrizione"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.document_web"
+msgstr "Informazioni supplementari"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.fackind_text_lang"
+msgstr "Tipo d‘installazione"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facname_lang"
+msgstr "Installazione"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facstatus_text_lang"
+msgstr "Stato dell‘installazione"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.meastype_text_lang"
+msgstr "Tipo di misura"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.objectname_lang"
+msgstr "Oggetto preposto"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plname_lang"
+msgstr "Misura"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plstatus_text_lang"
+msgstr "Stato della pianificazione"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validfrom"
+msgstr "Data della delibera"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validuntil"
+msgstr "al"
+
 msgid "ch.sem.sachplan-asyl_kraft"
 msgstr "PS Asilo"
+
+msgid "ch.sem.sachplan-asyl_kraft.coordlevel_text_lang"
+msgstr "Stato di coordinamento"
+
+msgid "ch.sem.sachplan-asyl_kraft.description_text_lang"
+msgstr "Descrizione"
+
+msgid "ch.sem.sachplan-asyl_kraft.document_web"
+msgstr "Informazioni supplementari"
+
+msgid "ch.sem.sachplan-asyl_kraft.fackind_text_lang"
+msgstr "Tipo d‘installazione"
+
+msgid "ch.sem.sachplan-asyl_kraft.facname_lang"
+msgstr "Installazione"
+
+msgid "ch.sem.sachplan-asyl_kraft.facstatus_text_lang"
+msgstr "Stato dell‘installazione"
+
+msgid "ch.sem.sachplan-asyl_kraft.meastype_text_lang"
+msgstr "Tipo di misura"
+
+msgid "ch.sem.sachplan-asyl_kraft.objectname_lang"
+msgstr "Oggetto preposto"
+
+msgid "ch.sem.sachplan-asyl_kraft.plname_lang"
+msgstr "Misura"
+
+msgid "ch.sem.sachplan-asyl_kraft.plstatus_text_lang"
+msgstr "Stato della pianificazione"
+
+msgid "ch.sem.sachplan-asyl_kraft.validfrom"
+msgstr "Data della delibera"
+
+msgid "ch.sem.sachplan-asyl_kraft.validuntil"
+msgstr "al"
 
 msgid "ch.sgpk.maechtigkeit-lockergesteine"
 msgstr "Spessore dei sedimenti"
@@ -6556,6 +6643,9 @@ msgstr "ch.swisstopo.images-spotimage"
 
 msgid "ch.swisstopo.images-swissimage"
 msgstr "SWISSIMAGE"
+
+msgid "ch.swisstopo.images-swissimage-dop10.metadata"
+msgstr "Divisione SWISSIMAGE 10 cm Raster"
 
 msgid "ch.swisstopo.images-swissimage.metadata"
 msgstr "Divisione SWISSIMAGE Raster"

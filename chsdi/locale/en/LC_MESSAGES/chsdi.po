@@ -3956,6 +3956,21 @@ msgstr "FOT"
 msgid "ch.bav.anlagen-schienengueterverkehr"
 msgstr "Anlagen Schienengüterverkehr"
 
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_abk"
+msgstr "Abkürzung"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.dst_nr"
+msgstr "Nummer"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.isb"
+msgstr "ISB"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.name"
+msgstr "Name"
+
+msgid "ch.bav.anlagen-schienengueterverkehr.typ"
+msgstr "Anlagenkategorie"
+
 msgid "ch.bav.baulinien-eisenbahnanlagen.oereb"
 msgstr "Building lines railways PLR"
 
@@ -5567,8 +5582,80 @@ msgstr "MCPFE1.3 Conservation through active management"
 msgid "ch.sem.sachplan-asyl_anhoerung"
 msgstr "SPA consultation"
 
+msgid "ch.sem.sachplan-asyl_anhoerung.coordlevel_text_lang"
+msgstr "Coordination level"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.description_text_lang"
+msgstr "Description"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.document_web"
+msgstr "More information"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.fackind_text_lang"
+msgstr "Facility type"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facname_lang"
+msgstr "Facility"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.facstatus_text_lang"
+msgstr "Facility status"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.meastype_text_lang"
+msgstr "Measure type"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.objectname_lang"
+msgstr "Belongs to object"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plname_lang"
+msgstr "Measure"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.plstatus_text_lang"
+msgstr "Planning status"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validfrom"
+msgstr "Valid from"
+
+msgid "ch.sem.sachplan-asyl_anhoerung.validuntil"
+msgstr "until"
+
 msgid "ch.sem.sachplan-asyl_kraft"
 msgstr "SP Asylum"
+
+msgid "ch.sem.sachplan-asyl_kraft.coordlevel_text_lang"
+msgstr "Coordination level"
+
+msgid "ch.sem.sachplan-asyl_kraft.description_text_lang"
+msgstr "Description"
+
+msgid "ch.sem.sachplan-asyl_kraft.document_web"
+msgstr "More information"
+
+msgid "ch.sem.sachplan-asyl_kraft.fackind_text_lang"
+msgstr "Facility type"
+
+msgid "ch.sem.sachplan-asyl_kraft.facname_lang"
+msgstr "Facility"
+
+msgid "ch.sem.sachplan-asyl_kraft.facstatus_text_lang"
+msgstr "Facility status"
+
+msgid "ch.sem.sachplan-asyl_kraft.meastype_text_lang"
+msgstr "Measure type"
+
+msgid "ch.sem.sachplan-asyl_kraft.objectname_lang"
+msgstr "Belongs to object"
+
+msgid "ch.sem.sachplan-asyl_kraft.plname_lang"
+msgstr "Measure"
+
+msgid "ch.sem.sachplan-asyl_kraft.plstatus_text_lang"
+msgstr "Planning status"
+
+msgid "ch.sem.sachplan-asyl_kraft.validfrom"
+msgstr "Valid from"
+
+msgid "ch.sem.sachplan-asyl_kraft.validuntil"
+msgstr "until"
 
 msgid "ch.sgpk.maechtigkeit-lockergesteine"
 msgstr "Sediment thickness"
@@ -6556,6 +6643,9 @@ msgstr "ch.swisstopo.images-spotimage"
 
 msgid "ch.swisstopo.images-swissimage"
 msgstr "SWISSIMAGE"
+
+msgid "ch.swisstopo.images-swissimage-dop10.metadata"
+msgstr "Division SWISSIMAGE 10 cm Raster"
 
 msgid "ch.swisstopo.images-swissimage.metadata"
 msgstr "Division SWISSIMAGE Raster"
