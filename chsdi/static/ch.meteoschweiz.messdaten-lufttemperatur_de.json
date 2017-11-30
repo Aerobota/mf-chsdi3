@@ -1,0 +1,1971 @@
+{
+"crs": {
+"type": "name",
+"properties": {
+"name": "EPSG:21781" }
+},
+"mapname" : "ch.meteoschweiz.messdaten-lufttemperatur",
+"timestamp" : "2017-11-23T09:42:14.000",
+"type" : "FeatureCollection",
+"features" : [
+{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 771030, 771030 ] },
+"id" : "ARO",
+"properties" : {
+"station_name" : "ARO",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Arosa (ARO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1840 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 771030, 771030 ] },
+"id" : "ARO",
+"properties" : {
+"station_name" : "ARO",
+"value" : 2.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Arosa (ARO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1878 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 756910, 756910 ] },
+"id" : "RAG",
+"properties" : {
+"station_name" : "RAG",
+"value" : 10.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bad Ragaz (RAG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>10.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>496 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/RAG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 719099, 719099 ] },
+"id" : "HAI",
+"properties" : {
+"station_name" : "HAI",
+"value" : 7.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Salen-Reutenen (HAI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>718 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HAI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 677456, 677456 ] },
+"id" : "HLL",
+"properties" : {
+"station_name" : "HLL",
+"value" : 1.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Hallau (HLL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>419 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HLL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 593269, 593269 ] },
+"id" : "DEM",
+"properties" : {
+"station_name" : "DEM",
+"value" : 16.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Delémont (DEM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>16.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>439 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DEM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 726347, 726347 ] },
+"id" : "EBK",
+"properties" : {
+"station_name" : "EBK",
+"value" : 3.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Ebnat-Kappel (EBK)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>623 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EBK.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 732265, 732265 ] },
+"id" : "ELM",
+"properties" : {
+"station_name" : "ELM",
+"value" : -0.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Elm (ELM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>958 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ELM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 699984, 699984 ] },
+"id" : "EIN",
+"properties" : {
+"station_name" : "EIN",
+"value" : 2.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Einsiedeln (EIN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>910 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EIN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 687444, 687444 ] },
+"id" : "ANT",
+"properties" : {
+"station_name" : "ANT",
+"value" : 3.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Andermatt (ANT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1438 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ANT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 655844, 655844 ] },
+"id" : "MER",
+"properties" : {
+"station_name" : "MER",
+"value" : 1.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Meiringen (MER)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>589 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MER.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 577040, 577040 ] },
+"id" : "CHD",
+"properties" : {
+"station_name" : "CHD",
+"value" : 2.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Château-d'Oex (CHD)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1029 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHD.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 575182, 575182 ] },
+"id" : "GRA",
+"properties" : {
+"station_name" : "GRA",
+"value" : 2.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Fribourg / Posieux (GRA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>646 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GRA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 565060, 565060 ] },
+"id" : "CHM",
+"properties" : {
+"station_name" : "CHM",
+"value" : 8.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Chaumont (CHM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1136 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 628005, 628005 ] },
+"id" : "LAG",
+"properties" : {
+"station_name" : "LAG",
+"value" : 2.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Langnau i.E. (LAG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>745 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LAG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 612662, 612662 ] },
+"id" : "KOP",
+"properties" : {
+"station_name" : "KOP",
+"value" : 1.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Koppigen (KOP)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>484 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/KOP.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 630739, 630739 ] },
+"id" : "GRC",
+"properties" : {
+"station_name" : "GRC",
+"value" : 1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Grächen (GRC)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1605 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GRC.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 629564, 629564 ] },
+"id" : "BLA",
+"properties" : {
+"station_name" : "BLA",
+"value" : -2.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Blatten, Lötschental (BLA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1538 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BLA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 733017, 733017 ] },
+"id" : "GRO",
+"properties" : {
+"station_name" : "GRO",
+"value" : 7.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Grono (GRO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>324 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GRO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 798422, 798422 ] },
+"id" : "BEH",
+"properties" : {
+"station_name" : "BEH",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Passo del Bernina (BEH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2260 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>7 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BEH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 778575, 778575 ] },
+"id" : "SIA",
+"properties" : {
+"station_name" : "SIA",
+"value" : -0.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Segl-Maria (SIA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1804 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SIA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 828861, 828861 ] },
+"id" : "SMM",
+"properties" : {
+"station_name" : "SMM",
+"value" : -1.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Sta. Maria, Val Müstair (SMM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1383 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SMM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 783514, 783514 ] },
+"id" : "DAV",
+"properties" : {
+"station_name" : "DAV",
+"value" : 0.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Davos (DAV)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1594 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DAV.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 759471, 759471 ] },
+"id" : "CHU",
+"properties" : {
+"station_name" : "CHU",
+"value" : 8.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Chur (CHU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>556 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 801850, 801850 ] },
+"id" : "ROB",
+"properties" : {
+"station_name" : "ROB",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Poschiavo / Robbia (ROB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1078 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ROB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 787210, 787210 ] },
+"id" : "SAM",
+"properties" : {
+"station_name" : "SAM",
+"value" : -2.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Samedan (SAM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1709 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SAM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 817135, 817135 ] },
+"id" : "SCU",
+"properties" : {
+"station_name" : "SCU",
+"value" : -2.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Scuol (SCU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1304 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SCU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 497061, 497061 ] },
+"id" : "DOL",
+"properties" : {
+"station_name" : "DOL",
+"value" : 3.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>La Dôle (DOL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1669 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DOL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 562127, 562127 ] },
+"id" : "PAY",
+"properties" : {
+"station_name" : "PAY",
+"value" : 7.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Payerne (PAY)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>489 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PAY.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 641930, 641930 ] },
+"id" : "JUN",
+"properties" : {
+"station_name" : "JUN",
+"value" : -6.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Jungfraujoch (JUN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-6.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>3571 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>10 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/JUN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 626400, 626400 ] },
+"id" : "WYN",
+"properties" : {
+"station_name" : "WYN",
+"value" : 2.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Wynau (WYN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>422 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/WYN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 744200, 744200 ] },
+"id" : "SAE",
+"properties" : {
+"station_name" : "SAE",
+"value" : 0.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Säntis (SAE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2502 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SAE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 757719, 757719 ] },
+"id" : "VAD",
+"properties" : {
+"station_name" : "VAD",
+"value" : 6.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Vaduz (VAD)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>457 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VAD.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 560401, 560401 ] },
+"id" : "AIG",
+"properties" : {
+"station_name" : "AIG",
+"value" : 9.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Aigle (AIG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>381 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/AIG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 567723, 567723 ] },
+"id" : "MLS",
+"properties" : {
+"station_name" : "MLS",
+"value" : 4.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Le Moléson (MLS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1974 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MLS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 562458, 562458 ] },
+"id" : "FAH",
+"properties" : {
+"station_name" : "FAH",
+"value" : 12.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Fahy (FAH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>12.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>596 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/FAH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 601706, 601706 ] },
+"id" : "MVE",
+"properties" : {
+"station_name" : "MVE",
+"value" : 5.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Montana (MVE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1422 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MVE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 624350, 624350 ] },
+"id" : "ZER",
+"properties" : {
+"station_name" : "ZER",
+"value" : -1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Zermatt (ZER)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1639 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ZER.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 570847, 570847 ] },
+"id" : "CHA",
+"properties" : {
+"station_name" : "CHA",
+"value" : 4.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Chasseral (CHA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1594 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 661910, 661910 ] },
+"id" : "PIL",
+"properties" : {
+"station_name" : "PIL",
+"value" : 4.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Pilatus (PIL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2105 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PIL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 690174, 690174 ] },
+"id" : "ALT",
+"properties" : {
+"station_name" : "ALT",
+"value" : 8.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Altdorf (ALT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>438 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ALT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 666740, 666740 ] },
+"id" : "ULR",
+"properties" : {
+"station_name" : "ULR",
+"value" : -5.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Ulrichen (ULR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-5.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1346 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ULR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 695888, 695888 ] },
+"id" : "PIO",
+"properties" : {
+"station_name" : "PIO",
+"value" : 4.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Piotta (PIO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>989 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PIO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 717874, 717874 ] },
+"id" : "LUG",
+"properties" : {
+"station_name" : "LUG",
+"value" : 9.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Lugano (LUG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>273 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LUG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 638133, 638133 ] },
+"id" : "NAP",
+"properties" : {
+"station_name" : "NAP",
+"value" : 7.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Napf (NAP)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1404 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/NAP.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 591630, 591630 ] },
+"id" : "SIO",
+"properties" : {
+"station_name" : "SIO",
+"value" : 3.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Sion (SIO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>482 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SIO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 711170, 711170 ] },
+"id" : "MAG",
+"properties" : {
+"station_name" : "MAG",
+"value" : 7.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Magadino / Cadenazzo (MAG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>203 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 563087, 563087 ] },
+"id" : "NEU",
+"properties" : {
+"station_name" : "NEU",
+"value" : 9.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Neuchâtel (NEU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>484 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/NEU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 716050, 716050 ] },
+"id" : "SBO",
+"properties" : {
+"station_name" : "SBO",
+"value" : 7.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Stabio (SBO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>351 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SBO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 633019, 633019 ] },
+"id" : "INT",
+"properties" : {
+"station_name" : "INT",
+"value" : 2.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Interlaken (INT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>577 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/INT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 708189, 708189 ] },
+"id" : "DIS",
+"properties" : {
+"station_name" : "DIS",
+"value" : 4.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Disentis / Sedrun (DIS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1197 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DIS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 747861, 747861 ] },
+"id" : "STG",
+"properties" : {
+"station_name" : "STG",
+"value" : 7.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>St. Gallen (STG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>776 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/STG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 723752, 723752 ] },
+"id" : "GLA",
+"properties" : {
+"station_name" : "GLA",
+"value" : 2.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Glarus (GLA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>517 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GLA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 498904, 498904 ] },
+"id" : "GVE",
+"properties" : {
+"station_name" : "GVE",
+"value" : 11.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Genève-Cointrin (GVE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>11.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>411 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GVE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 682710, 682710 ] },
+"id" : "KLO",
+"properties" : {
+"station_name" : "KLO",
+"value" : 5.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Zürich / Kloten (KLO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>426 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/KLO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 690050, 690050 ] },
+"id" : "GUE",
+"properties" : {
+"station_name" : "GUE",
+"value" : -2.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Gütsch ob Andermatt (GUE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2283 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GUE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 540811, 540811 ] },
+"id" : "PUY",
+"properties" : {
+"station_name" : "PUY",
+"value" : 9.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Pully (PUY)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>455 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PUY.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 579200, 579200 ] },
+"id" : "GSB",
+"properties" : {
+"station_name" : "GSB",
+"value" : -1.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Col du Grand St-Bernard (GSB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2471 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>9 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GSB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 609400, 609400 ] },
+"id" : "ABO",
+"properties" : {
+"station_name" : "ABO",
+"value" : 8.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Adelboden (ABO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1322 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ABO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 631149, 631149 ] },
+"id" : "VIS",
+"properties" : {
+"station_name" : "VIS",
+"value" : 4.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Visp (VIS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>639 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VIS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 550880, 550880 ] },
+"id" : "CDF",
+"properties" : {
+"station_name" : "CDF",
+"value" : 8.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>La Chaux-de-Fonds (CDF)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1017 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CDF.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 633246, 633246 ] },
+"id" : "RUE",
+"properties" : {
+"station_name" : "RUE",
+"value" : 14.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Rünenberg (RUE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>14.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>611 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/RUE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 648389, 648389 ] },
+"id" : "BUS",
+"properties" : {
+"station_name" : "BUS",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Buchs / Aarau (BUS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>387 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BUS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 665540, 665540 ] },
+"id" : "LUZ",
+"properties" : {
+"station_name" : "LUZ",
+"value" : 3.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Luzern (LUZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>454 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LUZ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 674157, 674157 ] },
+"id" : "ENG",
+"properties" : {
+"station_name" : "ENG",
+"value" : 6.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Engelberg (ENG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1035 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ENG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 688698, 688698 ] },
+"id" : "SHA",
+"properties" : {
+"station_name" : "SHA",
+"value" : 4.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Schaffhausen (SHA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>439 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SHA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 685117, 685117 ] },
+"id" : "SMA",
+"properties" : {
+"station_name" : "SMA",
+"value" : 7.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Zürich / Fluntern (SMA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>556 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SMA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 734112, 734112 ] },
+"id" : "SBE",
+"properties" : {
+"station_name" : "SBE",
+"value" : 1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>S. Bernardino (SBE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1639 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SBE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 780615, 780615 ] },
+"id" : "WFJ",
+"properties" : {
+"station_name" : "WFJ",
+"value" : 0.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Weissfluhjoch (WFJ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2691 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/WFJ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 783151, 783151 ] },
+"id" : "COV",
+"properties" : {
+"station_name" : "COV",
+"value" : -3.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Piz Corvatsch (COV)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-3.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>3294 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/COV.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 610911, 610911 ] },
+"id" : "BAS",
+"properties" : {
+"station_name" : "BAS",
+"value" : 7.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Basel / Binningen (BAS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>316 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BAS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 506880, 506880 ] },
+"id" : "CGI",
+"properties" : {
+"station_name" : "CGI",
+"value" : 8.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Nyon / Changins (CGI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>458 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CGI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 534221, 534221 ] },
+"id" : "FRE",
+"properties" : {
+"station_name" : "FRE",
+"value" : 7.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bullet / La Frétaz (FRE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1205 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/FRE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 601930, 601930 ] },
+"id" : "BER",
+"properties" : {
+"station_name" : "BER",
+"value" : 2.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bern / Zollikofen (BER)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>553 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BER.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 738420, 738420 ] },
+"id" : "GUT",
+"properties" : {
+"station_name" : "GUT",
+"value" : 5.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Güttingen (GUT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>440 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GUT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 640417, 640417 ] },
+"id" : "GOE",
+"properties" : {
+"station_name" : "GOE",
+"value" : 6.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Gösgen (GOE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>380 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GOE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 693847, 693847 ] },
+"id" : "WAE",
+"properties" : {
+"station_name" : "WAE",
+"value" : 6.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Wädenswil (WAE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>486 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/WAE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 710515, 710515 ] },
+"id" : "TAE",
+"properties" : {
+"station_name" : "TAE",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Aadorf / Tänikon (TAE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>538 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/TAE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 681428, 681428 ] },
+"id" : "REH",
+"properties" : {
+"station_name" : "REH",
+"value" : 5.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Zürich / Affoltern (REH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>443 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/REH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 704160, 704160 ] },
+"id" : "OTL",
+"properties" : {
+"station_name" : "OTL",
+"value" : 8.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Locarno / Monti (OTL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>367 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/OTL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 659808, 659808 ] },
+"id" : "BEZ",
+"properties" : {
+"station_name" : "BEZ",
+"value" : 1.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Beznau (BEZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>326 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BEZ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 587788, 587788 ] },
+"id" : "MUB",
+"properties" : {
+"station_name" : "MUB",
+"value" : 1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mühleberg (MUB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>480 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MUB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 704433, 704433 ] },
+"id" : "CIM",
+"properties" : {
+"station_name" : "CIM",
+"value" : 2.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Cimetta (CIM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1661 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CIM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 605415, 605415 ] },
+"id" : "EVO",
+"properties" : {
+"station_name" : "EVO",
+"value" : 3.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Evolène / Villa (EVO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1826 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EVO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 656379, 656379 ] },
+"id" : "LEI",
+"properties" : {
+"station_name" : "LEI",
+"value" : 1.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Leibstadt (LEI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>341 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LEI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 668583, 668583 ] },
+"id" : "GRH",
+"properties" : {
+"station_name" : "GRH",
+"value" : 0.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Grimsel Hospiz (GRH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1980 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>8 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GRH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 714998, 714998 ] },
+"id" : "COM",
+"properties" : {
+"station_name" : "COM",
+"value" : 6.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Acquarossa / Comprovasco (COM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>575 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/COM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 672250, 672250 ] },
+"id" : "LAE",
+"properties" : {
+"station_name" : "LAE",
+"value" : 7.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Lägern (LAE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>845 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>26 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LAE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 713515, 713515 ] },
+"id" : "HOE",
+"properties" : {
+"station_name" : "HOE",
+"value" : 6.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Hörnli (HOE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1132 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HOE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 586808, 586808 ] },
+"id" : "PLF",
+"properties" : {
+"station_name" : "PLF",
+"value" : 6.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Plaffeien (PLF)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1042 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PLF.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 682588, 682588 ] },
+"id" : "ROE",
+"properties" : {
+"station_name" : "ROE",
+"value" : 0.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Robièi (ROE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1898 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>6 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ROE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 659540, 659540 ] },
+"id" : "PSI",
+"properties" : {
+"station_name" : "PSI",
+"value" : 2.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>PSI Würenlingen (PSI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>334 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PSI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 657892, 657892 ] },
+"id" : "BIN",
+"properties" : {
+"station_name" : "BIN",
+"value" : 1.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Binn (BIN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1479 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BIN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 629149, 629149 ] },
+"id" : "MRP",
+"properties" : {
+"station_name" : "MRP",
+"value" : -1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Monte Rosa-Plattje (MRP)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2885 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>-1 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MRP.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 570920, 570920 ] },
+"id" : "MAB",
+"properties" : {
+"station_name" : "MAB",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Martigny / Ravoire (MAB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>741 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 570920, 570920 ] },
+"id" : "MAB",
+"properties" : {
+"station_name" : "MAB",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Martigny / Ravoire (MAB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>740 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 567375, 567375 ] },
+"id" : "MAR",
+"properties" : {
+"station_name" : "MAR",
+"value" : 8.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Les Marécottes (MAR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>990 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 588150, 588150 ] },
+"id" : "MSK",
+"properties" : {
+"station_name" : "MSK",
+"value" : 7.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mühleberg / Stockeren (MSK)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>775 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>70 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 690999, 690999 ] },
+"id" : "SAG",
+"properties" : {
+"station_name" : "SAG",
+"value" : 6.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Sattel-Aegeri (SAG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>790 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SAG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 677758, 677758 ] },
+"id" : "CHZ",
+"properties" : {
+"station_name" : "CHZ",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Cham (CHZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>443 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHZ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 618695, 618695 ] },
+"id" : "STC",
+"properties" : {
+"station_name" : "STC",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>St. Chrischona (STC)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>493 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>232 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/STC.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 573623, 573623 ] },
+"id" : "COY",
+"properties" : {
+"station_name" : "COY",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Courtelary (COY)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>695 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/COY.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 552106, 552106 ] },
+"id" : "VEV",
+"properties" : {
+"station_name" : "VEV",
+"value" : 10.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Vevey / Corseaux (VEV)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>10.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>405 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VEV.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 555264, 555264 ] },
+"id" : "BOU",
+"properties" : {
+"station_name" : "BOU",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bouveret (BOU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>374 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BOU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 675400, 675400 ] },
+"id" : "TIT",
+"properties" : {
+"station_name" : "TIT",
+"value" : -3.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Titlis (TIT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-3.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>3040 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>56 m. ü. Boden (Dachhöhe: 50 m)</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/TIT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 616774, 616774 ] },
+"id" : "FRU",
+"properties" : {
+"station_name" : "FRU",
+"value" : 1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Frutigen (FRU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>756 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 633053, 633053 ] },
+"id" : "MOE",
+"properties" : {
+"station_name" : "MOE",
+"value" : 5.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Möhlin (MOE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>344 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MOE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 533458, 533458 ] },
+"id" : "MAH",
+"properties" : {
+"station_name" : "MAH",
+"value" : 6.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mathod (MAH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>437 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 513821, 513821 ] },
+"id" : "CHB",
+"properties" : {
+"station_name" : "CHB",
+"value" : 9.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Les Charbonnières (CHB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1045 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 630261, 630261 ] },
+"id" : "HUT",
+"properties" : {
+"station_name" : "HUT",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Huttwil (HUT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>730 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>-1 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HUT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 614025, 614025 ] },
+"id" : "MTE",
+"properties" : {
+"station_name" : "MTE",
+"value" : -0.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mottec (MTE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1580 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 733340, 733340 ] },
+"id" : "VLS",
+"properties" : {
+"station_name" : "VLS",
+"value" : 3.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Vals (VLS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1242 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 664320, 664320 ] },
+"id" : "STP",
+"properties" : {
+"station_name" : "STP",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Stöckalp (STP)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1070 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/STP.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 760382, 760382 ] },
+"id" : "ARH",
+"properties" : {
+"station_name" : "ARH",
+"value" : 3.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Altenrhein (ARH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>398 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ARH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 679454, 679454 ] },
+"id" : "UEB",
+"properties" : {
+"station_name" : "UEB",
+"value" : 7.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Uetliberg (UEB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>854 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>162 m. ü. Boden</td></tr><tr><td><strong>Bemerkung</strong></td><td>Niederschlagsmessgerät steht auf einem Flachdach auf 40m über Boden.</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/UEB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 688477, 688477 ] },
+"id" : "GOS",
+"properties" : {
+"station_name" : "GOS",
+"value" : 8.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Göschenen (GOS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>950 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GOS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 752687, 752687 ] },
+"id" : "AND",
+"properties" : {
+"station_name" : "AND",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Andeer (AND)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>987 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/AND.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 769264, 769264 ] },
+"id" : "BIV",
+"properties" : {
+"station_name" : "BIV",
+"value" : 0.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bivio (BIV)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1856 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 714263, 714263 ] },
+"id" : "MTR",
+"properties" : {
+"station_name" : "MTR",
+"value" : -1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Matro (MTR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2171 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>22 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MTR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 583492, 583492 ] },
+"id" : "MOB",
+"properties" : {
+"station_name" : "MOB",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Montagnier, Bagnes (MOB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>839 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MOB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 574130, 574130 ] },
+"id" : "CDM",
+"properties" : {
+"station_name" : "CDM",
+"value" : 5.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Col des Mosses (CDM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1412 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CDM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 647570, 647570 ] },
+"id" : "SIM",
+"properties" : {
+"station_name" : "SIM",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Simplon-Dorf (SIM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1465 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/files/metweb/smnstationen/SIM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 816494, 816494 ] },
+"id" : "BUF",
+"properties" : {
+"station_name" : "BUF",
+"value" : -8.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Buffalora (BUF)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-8.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1968 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BUF.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 735685, 735685 ] },
+"id" : "ILZ",
+"properties" : {
+"station_name" : "ILZ",
+"value" : -2.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Ilanz (ILZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>698 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ILZ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 735325, 735325 ] },
+"id" : "BIZ",
+"properties" : {
+"station_name" : "BIZ",
+"value" : 1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bischofszell (BIZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>470 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 707637, 707637 ] },
+"id" : "LAC",
+"properties" : {
+"station_name" : "LAC",
+"value" : 5.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Lachen / Galgenen (LAC)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>468 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/LAC.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 681250, 681250 ] },
+"id" : "GOA",
+"properties" : {
+"station_name" : "GOA",
+"value" : 1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Göscheneralp (GOA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1745 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GOA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 644332, 644332 ] },
+"id" : "FLU",
+"properties" : {
+"station_name" : "FLU",
+"value" : 4.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Flühli, LU (FLU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>940 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/FLU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 595831, 595831 ] },
+"id" : "BOL",
+"properties" : {
+"station_name" : "BOL",
+"value" : 3.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Boltigen (BOL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>820 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BOL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 611201, 611201 ] },
+"id" : "THU",
+"properties" : {
+"station_name" : "THU",
+"value" : 1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Thun (THU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>570 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/THU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 571758, 571758 ] },
+"id" : "MAS",
+"properties" : {
+"station_name" : "MAS",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Marsens (MAS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>715 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MAS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 544198, 544198 ] },
+"id" : "VIT",
+"properties" : {
+"station_name" : "VIT",
+"value" : 7.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Villars-Tiercelin (VIT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>859 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VIT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 598216, 598216 ] },
+"id" : "GRE",
+"properties" : {
+"station_name" : "GRE",
+"value" : 0.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Grenchen (GRE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>430 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GRE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 622940, 622940 ] },
+"id" : "AIE",
+"properties" : {
+"station_name" : "AIE",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Affoltern im Emmental (AIE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>755 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/AIE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 660125, 660125 ] },
+"id" : "MOA",
+"properties" : {
+"station_name" : "MOA",
+"value" : 5.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mosen (MOA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>452 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MOA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 689688, 689688 ] },
+"id" : "CEV",
+"properties" : {
+"station_name" : "CEV",
+"value" : 7.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Cevio (CEV)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>417 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>4 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CEV.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 571160, 571160 ] },
+"id" : "CRM",
+"properties" : {
+"station_name" : "CRM",
+"value" : 3.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Cressier (CRM)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>431 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CRM.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 732820, 732820 ] },
+"id" : "CMA",
+"properties" : {
+"station_name" : "CMA",
+"value" : -2.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Crap Masegn (CMA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2480 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CMA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 722503, 722503 ] },
+"id" : "GEN",
+"properties" : {
+"station_name" : "GEN",
+"value" : 1.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Monte Generoso (GEN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1600 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GEN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 515889, 515889 ] },
+"id" : "BIE",
+"properties" : {
+"station_name" : "BIE",
+"value" : 10.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bière (BIE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>10.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>684 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BIE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 555506, 555506 ] },
+"id" : "ORO",
+"properties" : {
+"station_name" : "ORO",
+"value" : 8.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Oron (ORO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>827 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ORO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 536982, 536982 ] },
+"id" : "BRL",
+"properties" : {
+"station_name" : "BRL",
+"value" : 9.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>La Brévine (BRL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1040 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BRL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 606850, 606850 ] },
+"id" : "BAN",
+"properties" : {
+"station_name" : "BAN",
+"value" : 6.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bantiger (BAN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>942 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>155 m. ü. Boden</td></tr><tr><td><strong>Bemerkung</strong></td><td>Grenzschichtstation.</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BAN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 642913, 642913 ] },
+"id" : "EGO",
+"properties" : {
+"station_name" : "EGO",
+"value" : 3.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Egolzwil (EGO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>521 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EGO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 581914, 581914 ] },
+"id" : "DIA",
+"properties" : {
+"station_name" : "DIA",
+"value" : -1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Les Diablerets (DIA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2964 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DIA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 581914, 581914 ] },
+"id" : "DIA",
+"properties" : {
+"station_name" : "DIA",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Les Diablerets (DIA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2966 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DIA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 643684, 643684 ] },
+"id" : "SPF",
+"properties" : {
+"station_name" : "SPF",
+"value" : 2.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Schüpfheim (SPF)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>742 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SPF.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 761635, 761635 ] },
+"id" : "VAB",
+"properties" : {
+"station_name" : "VAB",
+"value" : 2.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Valbella (VAB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1569 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VAB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 760261, 760261 ] },
+"id" : "PMA",
+"properties" : {
+"station_name" : "PMA",
+"value" : -1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Piz Martegnas (PMA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2670 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/PMA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 815374, 815374 ] },
+"id" : "NAS",
+"properties" : {
+"station_name" : "NAS",
+"value" : 1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Naluns / Schlivera (NAS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2400 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/NAS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 568197, 568197 ] },
+"id" : "EVI",
+"properties" : {
+"station_name" : "EVI",
+"value" : 7.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Evionnaz (EVI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>7.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>482 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EVI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 626900, 626900 ] },
+"id" : "GOR",
+"properties" : {
+"station_name" : "GOR",
+"value" : -2.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Gornergrat (GOR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>3129 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GOR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 650279, 650279 ] },
+"id" : "EGH",
+"properties" : {
+"station_name" : "EGH",
+"value" : -2.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Eggishorn (EGH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2893 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EGH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 657320, 657320 ] },
+"id" : "GIH",
+"properties" : {
+"station_name" : "GIH",
+"value" : -0.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Giswil (GIH)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>471 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GIH.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 682510, 682510 ] },
+"id" : "GES",
+"properties" : {
+"station_name" : "GES",
+"value" : 6.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Gersau (GES)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>6.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>520 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/GES.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 769617, 769617 ] },
+"id" : "SRS",
+"properties" : {
+"station_name" : "SRS",
+"value" : -1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Schiers (SRS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>626 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/SRS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 768485, 768485 ] },
+"id" : "VIO",
+"properties" : {
+"station_name" : "VIO",
+"value" : 2.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Vicosoprano (VIO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1089 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VIO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 764171, 764171 ] },
+"id" : "OBR",
+"properties" : {
+"station_name" : "OBR",
+"value" : 5.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Oberriet, SG (OBR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>409 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/OBR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 770100, 770100 ] },
+"id" : "TSG",
+"properties" : {
+"station_name" : "TSG",
+"value" : 9999,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Arosa / Tschuggen (TSG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>9999</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2040 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 770730, 770730 ] },
+"id" : "ARD",
+"properties" : {
+"station_name" : "ARD",
+"value" : 3.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Arosa (ARD)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Messstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1840 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"-\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 603508, 603508 ] },
+"id" : "VSARO",
+"properties" : {
+"station_name" : "VSARO",
+"value" : -1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Arolla (VSARO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2005 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSARO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 597255, 597255 ] },
+"id" : "VSGDX",
+"properties" : {
+"station_name" : "VSGDX",
+"value" : 1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Barrage Grande Dixence (VSGDX)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2162 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSGDX.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 609887, 609887 ] },
+"id" : "VSBRI",
+"properties" : {
+"station_name" : "VSBRI",
+"value" : 0.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bricola (VSBRI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2431 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBRI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 626317, 626317 ] },
+"id" : "VSFIN",
+"properties" : {
+"station_name" : "VSFIN",
+"value" : -0.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Findelen (VSFIN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2170 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSFIN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 618616, 618616 ] },
+"id" : "VSSTA",
+"properties" : {
+"station_name" : "VSSTA",
+"value" : -3.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Stafel (VSSTA)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-3.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2183 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSTA.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 573453, 573453 ] },
+"id" : "VSFLY",
+"properties" : {
+"station_name" : "VSFLY",
+"value" : -0.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>LaFouly (VSFLY)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1564 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>3 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSFLY.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 560664, 560664 ] },
+"id" : "VSEMO",
+"properties" : {
+"station_name" : "VSEMO",
+"value" : 3.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Emosson (VSEMO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1923 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSEMO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 619600, 619600 ] },
+"id" : "VSTUR",
+"properties" : {
+"station_name" : "VSTUR",
+"value" : -2.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Turtmann (VSTUR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2180 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSTUR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 610169, 610169 ] },
+"id" : "VSMOI",
+"properties" : {
+"station_name" : "VSMOI",
+"value" : -0.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Moiry (VSMOI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2127 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSMOI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 596477, 596477 ] },
+"id" : "VSOTE",
+"properties" : {
+"station_name" : "VSOTE",
+"value" : -2.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Otemma (VSOTE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-2.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2357 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSOTE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 564020, 564020 ] },
+"id" : "VSSFE",
+"properties" : {
+"station_name" : "VSSFE",
+"value" : 3.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Salanfe (VSSFE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1965 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>5 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSFE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 557237, 557237 ] },
+"id" : "VSCLU",
+"properties" : {
+"station_name" : "VSCLU",
+"value" : 4.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Clusanfe (VSCLU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1926 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSCLU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 684227, 684227 ] },
+"id" : "ROG",
+"properties" : {
+"station_name" : "ROG",
+"value" : 8.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Rossberg (ROG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>8.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1119 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ROG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 572572, 572572 ] },
+"id" : "VSDUR",
+"properties" : {
+"station_name" : "VSDUR",
+"value" : 1.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Durnand (VSDUR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1214 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSDUR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 565634, 565634 ] },
+"id" : "VSTRI",
+"properties" : {
+"station_name" : "VSTRI",
+"value" : 1.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Trient (VSTRI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1329 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSTRI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 573830, 573830 ] },
+"id" : "VSSOR",
+"properties" : {
+"station_name" : "VSSOR",
+"value" : 2.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Sorniot-Lac Inférieur (VSSOR)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1990 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSOR.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 584115, 584115 ] },
+"id" : "VSDER",
+"properties" : {
+"station_name" : "VSDER",
+"value" : 1.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Derborence (VSDER)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1366 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSDER.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 589461, 589461 ] },
+"id" : "VSTSN",
+"properties" : {
+"station_name" : "VSTSN",
+"value" : 1.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Tsanfleuron (VSTSN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2052 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSTSN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 590166, 590166 ] },
+"id" : "VSNEN",
+"properties" : {
+"station_name" : "VSNEN",
+"value" : 0.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Nendaz (VSNEN)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1938 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSNEN.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 585332, 585332 ] },
+"id" : "VSISE",
+"properties" : {
+"station_name" : "VSISE",
+"value" : 4.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Isérables (VSISE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1237 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSISE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 640999, 640999 ] },
+"id" : "VSBRU",
+"properties" : {
+"station_name" : "VSBRU",
+"value" : -1.4,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bruchji (VSBRU)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.4 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>2300 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBRU.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 635896, 635896 ] },
+"id" : "VSVIS",
+"properties" : {
+"station_name" : "VSVIS",
+"value" : 3.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Visperterminen (VSVIS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1352 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSVIS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 621396, 621396 ] },
+"id" : "VSERG",
+"properties" : {
+"station_name" : "VSERG",
+"value" : 5.0,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Ergisch (VSERG)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.0 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1133 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSERG.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 663085, 663085 ] },
+"id" : "VSBLI",
+"properties" : {
+"station_name" : "VSBLI",
+"value" : 0.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Blinnen (VSBLI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1530 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBLI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 596041, 596041 ] },
+"id" : "VSCOL",
+"properties" : {
+"station_name" : "VSCOL",
+"value" : 2.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Les Collons (VSCOL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>2.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1770 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSCOL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 609073, 609073 ] },
+"id" : "VSSIE",
+"properties" : {
+"station_name" : "VSSIE",
+"value" : -0.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Sierre (VSSIE)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>535 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSIE.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 563181, 563181 ] },
+"id" : "VSCHO",
+"properties" : {
+"station_name" : "VSCHO",
+"value" : 5.2,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Choëx (VSCHO)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>5.2 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>891 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSCHO.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 581350, 581350 ] },
+"id" : "VSBSP",
+"properties" : {
+"station_name" : "VSBSP",
+"value" : 1.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Bourg-St-Pierre (VSBSP)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>1.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1822 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBSP.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 637837, 637837 ] },
+"id" : "VSSAB",
+"properties" : {
+"station_name" : "VSSAB",
+"value" : -0.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Saas Balen (VSSAB)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-0.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1535 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSAB.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 621858, 621858 ] },
+"id" : "VSJEI",
+"properties" : {
+"station_name" : "VSJEI",
+"value" : 4.3,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Jeizinen (VSJEI)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.3 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1556 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSJEI.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 633900, 633900 ] },
+"id" : "VSBAS",
+"properties" : {
+"station_name" : "VSBAS",
+"value" : 3.1,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Baltschiedertal (VSBAS)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.1 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1320 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBAS.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 627250, 627250 ] },
+"id" : "VSMAT",
+"properties" : {
+"station_name" : "VSMAT",
+"value" : 0.8,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Mattsand (VSMAT)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>0.8 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1230 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSMAT.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 609075, 609075 ] },
+"id" : "VSVER",
+"properties" : {
+"station_name" : "VSVER",
+"value" : 3.5,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Vercorin (VSVER)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.5 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1650 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSVER.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 597607, 597607 ] },
+"id" : "VSANZ",
+"properties" : {
+"station_name" : "VSANZ",
+"value" : 4.9,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Anzère (VSANZ)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>4.9 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1614 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSANZ.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 573291, 573291 ] },
+"id" : "VSSAL",
+"properties" : {
+"station_name" : "VSSAL",
+"value" : 3.6,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Saleina (VSSAL)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>3.6 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1600 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSSAL.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+,{ "geometry" : {
+"type" : "Point",
+"coordinates" : [ 555392, 555392 ] },
+"id" : "VSCHY",
+"properties" : {
+"station_name" : "VSCHY",
+"value" : -1.7,
+"description" : "<table><tbody><tr><td><strong>Stationsname</strong></td><td>Champéry (VSCHY)</td></tr><tr><td><strong>Stationstyp</strong></td><td>Automatische Niederschlagsmessstation MeteoSchweiz</td></tr><tr><td><strong>Lufttemperatur</strong></td><td>-1.7 °C (23.11.2017 09:30)</td></tr><tr><td><strong>Höhe ü. M.</strong></td><td>1055 m</td></tr><tr><td><strong>Messhöhe</strong></td><td>2 m. ü. Boden</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSCHY.pdf\">Link zur Stationsseite</a></td></tr></tbody></table>",
+"type" : "Feature" }
+}
+] }
