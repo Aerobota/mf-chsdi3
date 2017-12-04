@@ -25,7 +25,7 @@
 "id" : "RAG",
 "properties" : {
 "station_name" : "Bad Ragaz",
-"value" : -1.0,
+"value" : 12,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Bad Ragaz (RAG)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-1.0 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>496 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/RAG.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -35,7 +35,7 @@
 "id" : "HAI",
 "properties" : {
 "station_name" : "Salen-Reutenen",
-"value" : -2.4,
+"value" : 14,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Salen-Reutenen (HAI)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-2.4 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>718 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HAI.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -45,7 +45,7 @@
 "id" : "HLL",
 "properties" : {
 "station_name" : "Hallau",
-"value" : -0.1,
+"value" : 17,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Hallau (HLL)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-0.1 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>419 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/HLL.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -55,7 +55,7 @@
 "id" : "DEM",
 "properties" : {
 "station_name" : "Delémont",
-"value" : 0.3,
+"value" : 19,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Delémont (DEM)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>0.3 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>439 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/DEM.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -65,7 +65,7 @@
 "id" : "EBK",
 "properties" : {
 "station_name" : "Ebnat-Kappel",
-"value" : -0.8,
+"value" : 21,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Ebnat-Kappel (EBK)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-0.8 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>623 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/EBK.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -75,7 +75,7 @@
 "id" : "ELM",
 "properties" : {
 "station_name" : "Elm",
-"value" : -2.7,
+"value" : 24,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Elm (ELM)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-2.7 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>958 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ELM.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -95,7 +95,7 @@
 "id" : "ANT",
 "properties" : {
 "station_name" : "Andermatt",
-"value" : -6.2,
+"value" : 26,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Andermatt (ANT)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-6.2 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>1438 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/ANT.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -105,7 +105,7 @@
 "id" : "MER",
 "properties" : {
 "station_name" : "Meiringen",
-"value" : -1.4,
+"value" : 28,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Meiringen (MER)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-1.4 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>589 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/MER.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -115,7 +115,7 @@
 "id" : "CHD",
 "properties" : {
 "station_name" : "Château-d'Oex",
-"value" : -3.9,
+"value" : 32,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Château-d'Oex (CHD)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-3.9 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>1029 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/CHD.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
