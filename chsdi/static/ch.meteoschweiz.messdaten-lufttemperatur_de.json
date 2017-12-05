@@ -195,7 +195,7 @@
 "id" : "BEH",
 "properties" : {
 "station_name" : "Passo del Bernina",
-"value" : 9999,
+"value" : -22,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Passo del Bernina (BEH)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>9999</td></tr><tr><td><strong>Altitude m slm</strong></td><td>2260 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>7 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/BEH.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
@@ -1875,7 +1875,7 @@
 "id" : "VSBAS",
 "properties" : {
 "station_name" : "Baltschiedertal",
-"value" : -6.6,
+"value" : -16.6,
 "description" : "<table><tbody><tr><td><strong>Nom de la station</strong></td><td>Baltschiedertal (VSBAS)</td></tr><tr><td><strong>Type de station</strong></td><td>Station de mesure automatique de précipitation MétéoSuisse</td></tr><tr><td><strong>Température de l'air</strong></td><td>-6.6 °C (04.12.2017 09:30)</td></tr><tr><td><strong>Altitude m slm</strong></td><td>1320 m</td></tr><tr><td><strong>Hauteur de mesure</strong></td><td>2 m. s. sol</td></tr><tr><td><strong>Information</strong></td><td><a target=\"_blank\" href=\"http://www.meteoschweiz.admin.ch/product/input/smn-stations/docs/VSBAS.pdf\">Lien vers la page de la station</a></td></tr></tbody></table>" }
 }
 ,{ "type" : "Feature",
