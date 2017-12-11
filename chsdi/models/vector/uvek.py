@@ -893,12 +893,15 @@ register('ch.bakom.versorgungsgebiet-ukw', Bakomukw)
 
 
 class EinschraenkungenDrohnen(Base, Vector):
-    __tablename__ = 'einschraenkungen_drohnen'
+    __tablename__ = 'einschraenkungen_drohnen_update'
     __table_args__ = ({'schema': 'bazl', 'autoload': False})
     __template__ = 'templates/htmlpopup/einschraenkungen_drohnen.mako'
     __bodId__ = 'ch.bazl.einschraenkungen-drohnen'
     id = Column('bgdi_id', Integer, primary_key=True)
-    name = Column('name', Unicode)
+    name_de = Column('name_de', Unicode)
+    name_fr = Column('name_fr', Unicode)
+    name_it = Column('name_it', Unicode)
+    name_en = Column('name_en', Unicode)
     restr_de = Column('restr_de', Unicode)
     restr_fr = Column('restr_fr', Unicode)
     restr_it = Column('restr_it', Unicode)
