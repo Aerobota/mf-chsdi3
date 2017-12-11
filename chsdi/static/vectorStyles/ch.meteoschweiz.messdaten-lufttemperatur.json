@@ -34,9 +34,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -68,9 +68,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -102,9 +102,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -136,9 +136,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -170,9 +170,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -204,9 +204,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -238,9 +238,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -272,9 +272,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -306,9 +306,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -340,9 +340,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -374,9 +374,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -408,9 +408,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -442,9 +442,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -476,9 +476,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -510,9 +510,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -544,9 +544,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -578,9 +578,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -612,9 +612,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -646,9 +646,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -680,9 +680,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -714,9 +714,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -748,9 +748,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -782,9 +782,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -816,9 +816,9 @@
         "label": {
           "template": "${station_name}\n ${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -868,12 +868,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(215,25,28)",
               "lineCap": "round",
@@ -904,12 +903,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(221,50,40)",
               "lineCap": "round",
@@ -940,12 +938,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(228,76,52)",
               "lineCap": "round",
@@ -976,12 +973,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(234,102,64)",
               "lineCap": "round",
@@ -1012,12 +1008,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(241,128,76)",
               "lineCap": "round",
@@ -1048,12 +1043,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(248,154,88)",
               "lineCap": "round",
@@ -1084,12 +1078,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(253,177,101)",
               "lineCap": "round",
@@ -1120,12 +1113,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(253,191,117)",
               "lineCap": "round",
@@ -1156,12 +1148,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(253,205,133)",
               "lineCap": "round",
@@ -1192,12 +1183,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(254,219,150)",
               "lineCap": "round",
@@ -1228,12 +1218,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(254,233,166)",
               "lineCap": "round",
@@ -1264,12 +1253,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(254,233,166)",
               "lineCap": "round",
@@ -1300,12 +1288,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(254,247,182)",
               "lineCap": "round",
@@ -1336,12 +1323,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(247,251,194)",
               "lineCap": "round",
@@ -1372,12 +1358,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(233,245,201)",
               "lineCap": "round",
@@ -1408,12 +1393,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(218,238,209)",
               "lineCap": "round",
@@ -1444,12 +1428,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(203,231,216)",
               "lineCap": "round",
@@ -1480,12 +1463,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(189,225,223)",
               "lineCap": "round",
@@ -1516,12 +1498,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(154,204,226)",
               "lineCap": "round",
@@ -1552,12 +1533,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(132,188,217)",
               "lineCap": "round",
@@ -1588,12 +1568,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(110,172,208)",
               "lineCap": "round",
@@ -1624,12 +1603,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(88,155,199)",
               "lineCap": "round",
@@ -1660,12 +1638,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(66,139,190)",
               "lineCap": "round",
@@ -1696,12 +1673,11 @@
         "label": {
           "template": "${value} °",
           "text": {
-            "textAlign": "middle",
+            "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 1.35em FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetX": 10,
-            "offsetY": -10,
+            "offsetY": -19,
             "stroke": {
               "color": "rgb(44,123,182)",
               "lineCap": "round",
