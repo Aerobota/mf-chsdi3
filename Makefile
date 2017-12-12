@@ -317,6 +317,7 @@ production.ini: production.ini.in
 		--var "datageoadminhost=$(DATAGEOADMINHOST)" \
 		--var "cmsgeoadminhost=$(CMSGEOADMINHOST)" \
 		--var "linkeddatahost=$(LINKEDDATAHOST)" \
+		--var "opentrans_api_key=$(OPENTRANS_API_KEY)" \
 		--var "shortener_allowed_domains=$(SHORTENER_ALLOWED_DOMAINS)" $< > $@
 
 .venv/hooks: .venv/bin/git-secrets ./scripts/install-git-hooks.sh
