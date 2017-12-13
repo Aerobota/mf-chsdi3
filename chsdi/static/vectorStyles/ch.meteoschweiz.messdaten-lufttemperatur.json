@@ -5,16 +5,32 @@
     {
       "geomType": "point",
       "range": [100, 1000000],
-      "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
         },
         "fill": {
-          "color": "rgb(128,128,128)"
+          "color": "rgb(254,254,254)"
+        },
+        "label": {
+          "template": "-",
+          "text": {
+            "textAlign": "center",
+            "textBaseline": "middle",
+            "font": "bold 18px FrutigerNeueW02-Regular, Times, sans-serif",
+            "scale": 1.25,
+            "offsetY": -3,
+            "stroke": {
+              "color": "rgb(254,254,254)",
+              "width": 1
+            },
+            "fill": {
+              "color": "rgb(220,0,24)"
+            }
+          }
         }
       }
     }, {
@@ -23,7 +39,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -41,8 +57,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(215,25,28)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -57,7 +71,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -75,8 +89,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(221,50,40)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -91,7 +103,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -109,8 +121,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(228,76,52)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -125,7 +135,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -143,8 +153,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(234,102,64)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -159,7 +167,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -177,8 +185,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(241,128,76)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -193,7 +199,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -211,8 +217,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(248,154,88)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -227,7 +231,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -245,8 +249,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(253,177,101)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -261,7 +263,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -279,8 +281,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(253,191,117)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -295,7 +295,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -313,8 +313,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(253,205,133)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -329,7 +327,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -347,8 +345,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(254,219,150)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -363,7 +359,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -381,8 +377,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(254,233,166)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -397,7 +391,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -415,8 +409,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(254,233,166)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -431,7 +423,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -449,8 +441,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(254,247,182)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -465,7 +455,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -483,8 +473,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(247,251,194)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -499,7 +487,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -517,8 +505,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(233,245,201)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -533,7 +519,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -551,8 +537,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(218,238,209)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -567,7 +551,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -585,8 +569,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(203,231,216)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -601,7 +583,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -619,8 +601,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(189,225,223)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -635,7 +615,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -653,8 +633,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(154,204,226)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -669,7 +647,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -687,8 +665,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(132,188,217)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -703,7 +679,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -721,8 +697,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(110,172,208)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -737,7 +711,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -755,8 +729,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(88,155,199)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -771,7 +743,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -789,8 +761,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(66,139,190)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -805,7 +775,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -823,8 +793,6 @@
             "offsetY": -28,
             "stroke": {
               "color": "rgb(44,123,182)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -835,29 +803,12 @@
       }
     }, {
       "geomType": "point",
-      "minResolution": 50,
-      "maxResolution": 250,
-      "range": [100, 1000000],
-      "maxResolution": 250,
-      "vectorOptions": {
-        "type": "circle",
-        "radius": 5,
-        "stroke": {
-          "color": "rgb(0,0,0)",
-          "width": 1
-        },
-        "fill": {
-          "color": "rgb(128,128,128)"
-        }
-      }
-    }, {
-      "geomType": "point",
       "range": [30, 100],
       "minResolution": 50,
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -875,8 +826,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(215,25,28)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -892,7 +841,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -910,8 +859,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(221,50,40)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -927,7 +874,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -945,8 +892,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(228,76,52)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -962,7 +907,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -980,8 +925,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(234,102,64)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -997,7 +940,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1015,8 +958,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(241,128,76)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1032,7 +973,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1050,8 +991,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(248,154,88)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1067,7 +1006,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1085,8 +1024,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(253,177,101)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1102,7 +1039,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1120,8 +1057,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(253,191,117)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1137,7 +1072,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1155,8 +1090,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(253,205,133)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1172,7 +1105,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1190,8 +1123,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(254,219,150)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1207,7 +1138,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1225,8 +1156,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(254,233,166)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1242,7 +1171,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1260,8 +1189,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(254,233,166)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1277,7 +1204,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1295,8 +1222,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(254,247,182)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1312,7 +1237,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1330,8 +1255,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(247,251,194)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1347,7 +1270,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1365,8 +1288,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(233,245,201)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1382,7 +1303,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1400,8 +1321,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(218,238,209)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1417,7 +1336,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1435,8 +1354,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(203,231,216)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1452,7 +1369,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1470,8 +1387,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(189,225,223)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1487,7 +1402,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1505,8 +1420,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(154,204,226)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1522,7 +1435,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1540,8 +1453,6 @@
             "offsetY": -19,
             "stroke": {
               "color": "rgb(132,188,217)",
-              "lineCap": "round",
-              "lineJoin": "round",
               "width": 3
             },
             "fill": {
@@ -1557,7 +1468,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1592,7 +1503,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1627,7 +1538,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1662,7 +1573,7 @@
       "maxResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1696,7 +1607,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1711,7 +1622,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1726,7 +1637,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1741,7 +1652,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1756,7 +1667,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1771,7 +1682,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1786,7 +1697,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1801,7 +1712,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1816,7 +1727,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1831,7 +1742,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1846,7 +1757,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1861,7 +1772,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1876,7 +1787,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1891,7 +1802,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1906,7 +1817,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1921,7 +1832,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1936,7 +1847,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1951,7 +1862,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1966,7 +1877,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1981,7 +1892,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -1996,7 +1907,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -2011,7 +1922,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -2026,7 +1937,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -2041,7 +1952,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
@@ -2056,7 +1967,7 @@
       "minResolution": 250,
       "vectorOptions": {
         "type": "circle",
-        "radius": 5,
+        "radius": 6,
         "stroke": {
           "color": "rgb(0,0,0)",
           "width": 1
