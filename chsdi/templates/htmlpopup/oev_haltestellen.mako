@@ -4,7 +4,7 @@
 <%
 baseUrl = request.registry.settings['api_url']
 %>
-  <iframe src="${baseUrl}/rest/services/all/MapServer/${c['layerBodId']}/${c['featureId']}/iframeHtmlPopup?lang=${lang}" width="100%" height="235" frameborder="0" style="border: 0;" scrolling="no"></iframe>
+  <iframe src="${baseUrl}/rest/services/all/MapServer/${c['layerBodId']}/${c['featureId']}/iframeHtmlPopup?lang=${lang}" width="100%" height="165" frameborder="0" style="border: 0;" scrolling="no"></iframe>
 </%def>
 
 
@@ -29,8 +29,6 @@ baseUrl = request.registry.settings['api_url']
     margin:0px;
   }
   .${c['htmlpopup_class']} .oev-delay {
-    width: 20px !important;
-    vertical-align: middle !important;
     color:red;
   }
   .${c['htmlpopup_class']} .col-label {
@@ -105,17 +103,17 @@ $(document).ready(function() {
             late_diff = moment(estimated_then,"DD/MM/YYYY HH:mm").diff(moment(then,"DD/MM/YYYY HH:mm"));
             late_d = moment.duration(late_diff);
             late = '(+' + Math.floor(late_d.asMinutes()) + moment.utc(late_d).format("[']", -1) + ')';
-            if (late == '(+0\')'){
+            if (late == '(+0\')'){ // do not show anything when the delay is 0
               late = '';
               class_late = '';
             }
-            then = estimated_then;
+            then = estimated_then; // when there is a delay we take the estimated date
           }
           var label = result[i].label;
-          if (label == null){
+          if (label == null){ // some labels are null
             label = '-';
           }
-          if (label.length > 2){
+          if (label.length > 2){ // some labels are too long
             label = label.substr(0, 3);
           }
           var time = moment(then, 'DD/MM/YYY HH:mm').format("HH:mm");
@@ -228,7 +226,7 @@ $(document).ready(function() {
 </table>
 <br />
 <div>
- <iframe src="${''.join((c['baseUrl'], '/embed.html', '?', c['layerBodId'], '=', str(c['featureId']), '&lang=', lang, '&topic=', topic))}" width='600' height='300' style="width: 100%;" frameborder='0' style='border:0'></iframe>
+ <iframe src="${''.join((c['baseUrl'], '/embed.html', '?', c['layerBodId'], '=', str(c['featureId']), '&lang=', lang, '&topic=', topic))}" width='580' height='300' style="width: 100%;" frameborder='0' style='border:0'></iframe>
 </div>
 </%def>
 

@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
 
 
-from sqlalchemy.exc import OperationalError
 from pyramid.httpexceptions import HTTPInternalServerError, HTTPBadRequest
 from pyramid.view import view_config, view_defaults
 from chsdi.lib.opentransapi import opentransapi
+from pyramid.threadlocal import get_current_registry
 
 
 @view_defaults(renderer='jsonp', route_name='stationboard')
@@ -15,7 +15,10 @@ class TransportView(object):
     MAX_LIMT = 20
 
     def __init__(self, request):
-        self.ot_api = opentransapi.OpenTrans()
+        self.opentrans_api_key = get_current_registry().settings['opentrans_api_key']  # Get API key from config .ini
+        if (self.opentrans_api_key == ''):
+            raise HTTPInternalServerError('The opentrans_api_key has no value, is registeret in .ini')
+        self.ot_api = opentransapi.OpenTrans(self.opentrans_api_key)
         self.request = request
         if request.matched_route.name == 'stationboard':
             id = request.matchdict['id']
@@ -37,13 +40,5 @@ class TransportView(object):
 
     @view_config(request_method='GET')
     def get_departures(self):
-        try:
-            results = self.ot_api.get_departures(self.id, self.limit)
-            if len(results) == 0:
-                results = None
-        except OperationalError as e:  # pragma: no cover
-            raise HTTPInternalServerError(e)
-
-        if not results:
-            return [{'destination': 'nodata'}]
+        results = self.ot_api.get_departures(self.id, self.limit)
         return results

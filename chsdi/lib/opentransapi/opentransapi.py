@@ -4,13 +4,12 @@ import requests
 import xml.etree.ElementTree as et
 from pytz import timezone
 from datetime import datetime, timedelta
-from pyramid.threadlocal import get_current_registry
 
 
 class OpenTrans:
 
-    def __init__(self):
-        self.open_trans_api_key = get_current_registry().settings['opentrans_api_key']  # Get API key from config .ini
+    def __init__(self, open_trans_api_key):
+        self.open_trans_api_key = open_trans_api_key  # Get API key from config .ini
         self.url = 'https://api.opentransportdata.swiss/trias'  # URL of API
 
     def get_departures(self, station_id, number_results=5, request_dt_time=False):
@@ -20,37 +19,17 @@ class OpenTrans:
         results = self.xml_to_array(api_response_xml)
         return results
 
-    def _format_time(self, str_date_time, only_time=False):
+    def _format_time(self, str_date_time):
         formated_date_time = datetime.strptime(str_date_time, '%Y-%m-%dT%H:%M:%SZ')
         formated_date_time += timedelta(hours=1)  # time offset UTC +1
-        if only_time:
-            style_date_time = '%H:%M'
-        else:
-            style_date_time = '%d/%m/%Y %H:%M'
-        return formated_date_time.strftime(style_date_time)
-
-    def _calc_delay(self, el_timetable, el_estimated):
-        if el_estimated == None:
-            return 'nodata'
-        else:
-            timetable_time = datetime.strptime(el_timetable.text, '%Y-%m-%dT%H:%M:%SZ')
-            estimated_time = datetime.strptime(el_estimated.text, '%Y-%m-%dT%H:%M:%SZ')
-            time_diff = estimated_time - timetable_time
-            hours, minutes, seconds = self._convert_timedelta(time_diff)
-            return '%d:%02d' % (hours, minutes)
+        return formated_date_time.strftime('%d/%m/%Y %H:%M')
 
     def _convert_estimated_date(self, el_estimated):
+        # the field estimatedDate is not mandatory
         if el_estimated == None:
             return 'nodata'
         else:
             return self._format_time(el_estimated.text)
-
-    def _convert_timedelta(self, duration):
-        days, seconds = duration.days, duration.seconds
-        hours = days * 24 + seconds // 3600
-        minutes = (seconds % 3600) // 60
-        seconds = (seconds % 60)
-        return hours, minutes, seconds
 
     def xml_to_array(self, xml_data):
         ns = {'trias': 'http://www.vdv.de/trias'}
@@ -58,24 +37,24 @@ class OpenTrans:
         el_stop_events = root.findall('.//trias:StopEvent', ns)
         results = [{
             'id': el.find('./trias:ThisCall/trias:CallAtStop/trias:StopPointRef', ns).text,
-            'time': self._format_time(el.find('./trias:ThisCall/trias:CallAtStop/trias:ServiceDeparture/trias:TimetabledTime', ns).text, True),
             'label': el.find('./trias:Service/trias:PublishedLineName/trias:Text', ns).text,
             'currentDate': self._format_time(root.find('.//{http://www.siri.org.uk/siri}ResponseTimestamp').text),
             'departureDate': self._format_time(el.find('./trias:ThisCall/trias:CallAtStop/trias:ServiceDeparture/trias:TimetabledTime', ns).text),
             'estimatedDate': self._convert_estimated_date(el.find('./trias:ThisCall/trias:CallAtStop/trias:ServiceDeparture/trias:EstimatedTime', ns)),
-            'predictableDelay': self._calc_delay(el.find('./trias:ThisCall/trias:CallAtStop/trias:ServiceDeparture/trias:TimetabledTime', ns),
-                                                el.find('./trias:ThisCall/trias:CallAtStop/trias:ServiceDeparture/trias:EstimatedTime', ns)),
             'destinationName': el.find('./trias:Service/trias:DestinationText/trias:Text', ns).text,
             'destinationId': el.find('./trias:Service/trias:DestinationStopPointRef', ns).text
         } for el in el_stop_events]
+        if el_stop_events == None or results == []:
+            results = [{'destination': 'nodata'}]
         return results
 
     def send_post(self, station_id, request_dt_time, number_results=5):
         self.headers = {
-            'Authorization': self.open_trans_api_key,
-            'Content-Type': 'application/xml'
+            'authorization': self.open_trans_api_key,
+            'content-type': 'application/xml; charset=utf-8',
+            'accept-charset': 'utf-8'
         }
-        self.xml_data = """
+        self.xml_data = u"""
                     <?xml version="1.0" encoding="UTF-8"?>
                     <Trias version="1.1" xmlns="http://www.vdv.de/trias" xmlns:siri="http://www.siri.org.uk/siri" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
                         <ServiceRequest>
@@ -101,6 +80,16 @@ class OpenTrans:
                         </ServiceRequest>
                     </Trias>
                     """ % (str(request_dt_time), str(station_id), str(request_dt_time), str(number_results))
-        self.r = requests.post(self.url, self.xml_data, headers=self.headers)
-        self.r.encoding = 'utf-8'
+
+        self.r = requests.post(self.url, self.xml_data, headers=self.headers, timeout=5)
+        if (self.r.status_code == 429):
+            raise OpenTransException("The rate limit of OpenTransportdata has exceeded")
+        if (self.r.status_code != requests.codes.ok):
+            self.r.raise_for_status()
+
+        self.r.encoding = 'utf-8'  # TODO better encoding solution
         return self.r.text.encode('utf-8')
+
+
+class OpenTransException(Exception):
+    pass
