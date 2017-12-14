@@ -18,11 +18,9 @@
         "label": {
           "template": "-",
           "text": {
-            "textAlign": "center",
-            "textBaseline": "middle",
-            "font": "bold 18px FrutigerNeueW02-Regular, Times, sans-serif",
-            "scale": 1.25,
-            "offsetY": -3,
+            "font": "bold 18px Arial, sans-serif",
+            "scale": 1,
+            "offsetY": -1,
             "stroke": {
               "color": "rgb(254,254,254)",
               "width": 1

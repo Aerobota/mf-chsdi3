@@ -5666,6 +5666,9 @@ msgstr "Globalstrahlung test"
 msgid "ch.meteoschweiz.messdaten-lufttemperatur"
 msgstr "Air temperature data"
 
+msgid "ch.meteoschweiz.messdaten-niederschlag-tagessummen"
+msgstr "Precipitation data daily values"
+
 msgid "ch.mobility.standorte"
 msgstr "Carsharing"
 

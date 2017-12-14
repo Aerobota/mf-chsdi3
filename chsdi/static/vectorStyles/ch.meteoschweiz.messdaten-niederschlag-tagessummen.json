@@ -7,7 +7,7 @@
       "range": [5000, 100000000],
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -20,9 +20,9 @@
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 18px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 17px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
-            "offsetY": -3,
+            "offsetY": -2,
             "stroke": {
               "color": "rgb(254,254,254)",
               "width": 1
@@ -39,7 +39,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -48,11 +48,11 @@
           "color": "#9540D5"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -71,7 +71,7 @@
        "maxResolution": 50,
        "vectorOptions": {
          "type": "circle",
-         "radius": 6,
+         "radius": 7,
          "stroke": {
            "color": "#7B9FB2",
            "width": 2
@@ -80,11 +80,11 @@
            "color": "#DA3D24"
          },
          "label": {
-           "template": "${station_name}\n ${value} °",
+           "template": "${station_name}\n ${value} mm",
            "text": {
              "textAlign": "center",
              "textBaseline": "middle",
-             "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+             "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
              "scale": 1.25,
              "offsetY": -28,
              "stroke": {
@@ -103,7 +103,7 @@
        "maxResolution": 50,
        "vectorOptions": {
          "type": "circle",
-         "radius": 6,
+         "radius": 7,
          "stroke": {
            "color": "#7B9FB2",
            "width": 2
@@ -112,11 +112,11 @@
            "color": "#E28130"
          },
          "label": {
-           "template": "${station_name}\n ${value} °",
+           "template": "${station_name}\n ${value} mm",
            "text": {
              "textAlign": "center",
              "textBaseline": "middle",
-             "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+             "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
              "scale": 1.25,
              "offsetY": -28,
              "stroke": {
@@ -135,7 +135,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -144,11 +144,11 @@
           "color": "#F0C441"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -167,7 +167,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -176,11 +176,11 @@
           "color": "#FEFA4E"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -199,7 +199,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -208,11 +208,11 @@
           "color": "#91F648"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -231,7 +231,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -240,11 +240,11 @@
           "color": "#4F863B"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -263,7 +263,7 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
@@ -272,11 +272,11 @@
           "color": "#143EF3"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -295,20 +295,20 @@
       "maxResolution": 50,
       "vectorOptions": {
         "type": "circle",
-        "radius": 6,
+        "radius": 7,
         "stroke": {
           "color": "#7B9FB2",
           "width": 2
         },
         "fill": {
-          "color": "rgb(253,191,117)"
+          "color": "#917F92"
         },
         "label": {
-          "template": "${station_name}\n ${value} °",
+          "template": "${station_name}\n ${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -28,
             "stroke": {
@@ -337,11 +337,11 @@
           "color": "#9540D5"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -367,14 +367,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#E28130"
+          "color": "#DA3D24"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -400,14 +400,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#F0C441"
+          "color": "#E28130"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -433,14 +433,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#FEFA4E"
+          "color": "#F0C441"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -466,14 +466,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#91F648"
+          "color": "#FEFA4E"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -499,14 +499,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#4F863B"
+          "color": "#91F648"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -532,14 +532,14 @@
           "width": 2
         },
         "fill": {
-          "color": "#143EF3"
+          "color": "#4F863B"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -565,14 +565,14 @@
           "width": 2
         },
         "fill": {
-          "color": "rgb(253,191,117)"
+          "color": "#143EF3"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -601,11 +601,11 @@
           "color": "#917F92"
         },
         "label": {
-          "template": "${value} °",
+          "template": "${value} mm",
           "text": {
             "textAlign": "center",
             "textBaseline": "middle",
-            "font": "bold 13px FrutigerNeueW02-Regular, Times, sans-serif",
+            "font": "bold 11px FrutigerNeueW02-Regular, Times, sans-serif",
             "scale": 1.25,
             "offsetY": -19,
             "stroke": {
@@ -750,7 +750,7 @@
           "width": 2
         },
         "fill": {
-          "color": "rgb(253,191,117)"
+          "color": "#917F92"
         }
       }
     }

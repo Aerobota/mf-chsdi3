@@ -5666,6 +5666,9 @@ msgstr "Globalstrahlung test"
 msgid "ch.meteoschweiz.messdaten-lufttemperatur"
 msgstr "Messdaten Lufttemperatur"
 
+msgid "ch.meteoschweiz.messdaten-niederschlag-tagessummen"
+msgstr "Messdaten Niederschlag Tagessumme"
+
 msgid "ch.mobility.standorte"
 msgstr "Carsharing"
 
@@ -5805,7 +5808,7 @@ msgid "ch.sem.sachplan-asyl_anhoerung.validuntil"
 msgstr "bis"
 
 msgid "ch.sem.sachplan-asyl_kraft"
-msgstr "SPA Asyl"
+msgstr "SP Asyl"
 
 msgid "ch.sem.sachplan-asyl_kraft.coordlevel_text_lang"
 msgstr "Stand der Koordination"
